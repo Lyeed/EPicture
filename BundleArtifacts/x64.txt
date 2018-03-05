@@ -1,0 +1,2 @@
+MainPackage=C:\Users\TRAINEE\documents\visual studio 2015\Projects\EPicture\EPicture\bin\x64\Debug\EPicture_1.0.2.0_x64_Debug.appx
+SymbolPackage=C:\Users\TRAINEE\documents\visual studio 2015\Projects\EPicture\EPicture\AppPackages\EPicture_1.0.2.0_Debug_Test\EPicture_1.0.2.0_x64_Debug.appxsym
